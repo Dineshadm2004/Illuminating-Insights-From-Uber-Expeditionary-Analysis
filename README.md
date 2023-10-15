@@ -8,3 +8,4 @@ YOUTUBE LINK ; https://youtu.be/WdRVjVxPI2k?si=NWIKG60GW7DaQvH8
 
 DRIVE VIDEO LINK ; https://drive.google.com/file/d/1VJmPYKCbHX-Yn1sI2moz15ZHFQZl4kY7/view?usp=drivesdk
 
+DRIVE ALL PDF LINK ; https://drive.google.com/drive/folders/1QHltpDfV35DK5_wYqKdG17gLXTe41PwN
